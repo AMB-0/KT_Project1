@@ -49,7 +49,7 @@ II. OUTPUT
    I.Edit Distance Baseline Test - Toogles Configuration
 -------------------------------------------
 
-        -Twitter Abreviation:                                   OFF
+        -Twitter Abbreviation:                                   OFF
         -Soundex Improvement:                                   OFF
         -Most Likely Dictionary:                                OFF
 
